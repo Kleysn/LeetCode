@@ -1,5 +1,12 @@
 //151. Reverse Words in a String
 
+//Given an input string s, reverse the order of the words.
+//Example 2:
+
+//Input: s = "  hello world  "
+//Output: "world hello"
+//Explanation: Your reversed string should not contain leading or trailing spaces.
+    
 package leetcode;
 
 class Solution {
